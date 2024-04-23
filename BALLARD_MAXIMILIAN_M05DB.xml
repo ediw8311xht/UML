@@ -1,19 +1,19 @@
-<mxfile modified="2024-04-23T00:06:25.578Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="i-SB-Sy0pgGePYmnUKrK" version="24.2.8" type="github">
+<mxfile modified="2024-04-23T00:07:31.397Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="G4m2WZ9eHhFX7r6y0Z84" version="24.2.8" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
-    <mxGraphModel dx="1809" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bC9mAllne671p5dbn9rO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="80" width="630" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="bC9mAllne671p5dbn9rO-5" value="Student&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;direction=east;" parent="1" vertex="1">
+        <mxCell id="bC9mAllne671p5dbn9rO-5" value="&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;direction=east;" parent="1" vertex="1">
           <mxGeometry x="35" y="420" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="bC9mAllne671p5dbn9rO-13" value="&lt;div&gt;School&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="bC9mAllne671p5dbn9rO-13" value="&lt;div&gt;Bank&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="380" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XLtC2qS3hwPV-j5Zmhv8-2" value="School Registration System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="XLtC2qS3hwPV-j5Zmhv8-2" value="Banking System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="248" y="30" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-4" value="&lt;div&gt;Log In&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
