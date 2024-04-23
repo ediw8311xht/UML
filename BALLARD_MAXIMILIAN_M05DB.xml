@@ -1,6 +1,6 @@
-<mxfile modified="2024-04-23T00:07:31.397Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="G4m2WZ9eHhFX7r6y0Z84" version="24.2.8" type="github">
+<mxfile modified="2024-04-23T00:12:43.639Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="STAOqkajl5JG28N_7ucj" version="24.2.8" type="github">
   <diagram id="6IyN1yxz_EUKU6p1L3d3" name="Page-1">
-    <mxGraphModel dx="1183" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-4" value="&lt;div&gt;Log In&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="350" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-8" value="Register for Class" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-8" value="Withdraw Money" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="580" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-9" value="Create Account" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -67,39 +67,13 @@
             <mxPoint x="585" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-30" value="Verify Prerequisites" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="535" y="590" width="140" height="70" as="geometry" />
+        <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-30" value="Verify Account Funds" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="670" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-35" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.95;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WVBNdEyc8FuOtJC0ZsmZ-8" target="WVBNdEyc8FuOtJC0ZsmZ-30" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="280" y="720" as="sourcePoint" />
             <mxPoint x="440" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-40" value="Register for Online Class" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="750" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-43" value="Register for In-Person Class" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="750" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-44" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="WVBNdEyc8FuOtJC0ZsmZ-40" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="270" y="700" as="sourcePoint" />
-            <mxPoint x="355" y="650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="690" />
-              <mxPoint x="355" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-47" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="WVBNdEyc8FuOtJC0ZsmZ-43" target="WVBNdEyc8FuOtJC0ZsmZ-8" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="430" y="740" as="sourcePoint" />
-            <mxPoint x="535" y="700" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="455" y="690" />
-              <mxPoint x="355" y="690" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WVBNdEyc8FuOtJC0ZsmZ-48" value="Verify Account Information" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -118,6 +92,48 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="417.5" y="250" as="sourcePoint" />
             <mxPoint x="492.5" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COriMAWFIzs8ZDJcIbDk-3" value="Deposit Money" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COriMAWFIzs8ZDJcIbDk-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COriMAWFIzs8ZDJcIbDk-3" target="bC9mAllne671p5dbn9rO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="568" as="sourcePoint" />
+            <mxPoint x="120" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COriMAWFIzs8ZDJcIbDk-5" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-13" target="COriMAWFIzs8ZDJcIbDk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="493" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COriMAWFIzs8ZDJcIbDk-6" value="Apply for Loan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COriMAWFIzs8ZDJcIbDk-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bC9mAllne671p5dbn9rO-5" target="COriMAWFIzs8ZDJcIbDk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="740" as="sourcePoint" />
+            <mxPoint x="200" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COriMAWFIzs8ZDJcIbDk-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="COriMAWFIzs8ZDJcIbDk-6" target="bC9mAllne671p5dbn9rO-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="750" as="sourcePoint" />
+            <mxPoint x="480" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COriMAWFIzs8ZDJcIbDk-9" value="&lt;div&gt;Loan Officer&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="620" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="COriMAWFIzs8ZDJcIbDk-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="COriMAWFIzs8ZDJcIbDk-6" target="COriMAWFIzs8ZDJcIbDk-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="910" as="sourcePoint" />
+            <mxPoint x="580" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
